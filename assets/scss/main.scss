@@ -1,0 +1,11 @@
+// 1. Include any default variable overrides here
+// $theme-colors: (
+//   "primary": "#3861fb",
+//   "danger": $danger
+// );
+$primary: #3861fb;
+
+// 2. Include required Bootstrap stylesheets
+@import "~bootstrap";
+
+// 3. Add additional custom code here
